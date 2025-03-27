@@ -20,8 +20,8 @@
 
   ## Contact-Me
   * Name - Bud Triplett
-  * Email - rafaguerra245@hotmail.com
-  * GitHub - [Rafa245](https://github.com/Rafa245)
+  * Email - bud.triplett@yahoo.com
+  * GitHub - https://github.com/budtriplett 
   ## Contributors
   Bud Triplett
   ## Testing
