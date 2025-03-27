@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true
+  },
+  "include": [
+    "cypress/**/*.ts",   // Include all Cypress test files
+    "src/**/*.ts",       // Include all source TypeScript files if necessary
+    "client/**/*.tsx"    // If you're using React, include .tsx files as well
+  ],
+  "exclude": [
+    "node_modules"       // Exclude node_modules
+  ]
+}
